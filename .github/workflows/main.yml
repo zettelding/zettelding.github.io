@@ -32,8 +32,6 @@ jobs:
         name: out
     - name: run
       run: |
-        mv -f out/* .
-        rm -rf ./out
         find . -type f -maxdepth 1 | cut -c3- | sort | grep -v ".def" | while read i; do echo "<a href=\"$i\">$i</a><br /><br />" >> index.html; done
         ls -ltr >zz_ls.txt
         ls -1 >zz_l1.txt
