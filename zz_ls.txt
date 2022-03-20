@@ -1,0 +1,12 @@
+total 120
+-rw-r--r-- 1 runner docker 17335 Mar 20 15:42 folien.html
+-rw-r--r-- 1 runner docker   470 Mar 20 15:42 folien.text
+-rw-r--r-- 1 runner docker    70 Mar 20 15:42 folien.text.def
+-rw-r--r-- 1 runner docker     3 Mar 20 15:42 hi.txt
+-rw-r--r-- 1 runner docker    82 Mar 20 15:42 test.org.def
+-rw-r--r-- 1 runner docker    26 Mar 20 15:42 tab.csv
+-rw-r--r-- 1 runner docker 67936 Mar 20 15:42 test.pdf
+-rw-r--r-- 1 runner docker     9 Mar 20 15:42 test.org
+-rw-r--r-- 1 runner docker     5 Mar 20 15:42 test1.md
+-rw-r--r-- 1 runner docker     0 Mar 20 15:42 zz_ls.txt
+-rw-r--r-- 1 runner docker   314 Mar 20 15:42 index.html
