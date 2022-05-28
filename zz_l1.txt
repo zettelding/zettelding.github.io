@@ -7,6 +7,8 @@ tab.csv
 test.org
 test.org.def
 test.pdf
+test1(1).md
 test1.md
+zz_git.txt
 zz_l1.txt
 zz_ls.txt
